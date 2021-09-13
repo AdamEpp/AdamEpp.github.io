@@ -1,3 +1,3 @@
 ## Adam Epp
 
-MA student at Queen's University studying Economics. 
+MA student at Queen's University studying economics. 
