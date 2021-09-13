@@ -1,3 +1,3 @@
 ## Adam Epp
 
-Research Assistant at the Bank of Canada
+MA student at Queen's University studying Economics. 
