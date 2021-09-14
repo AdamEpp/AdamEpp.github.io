@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
 	spec.email         = ["adam.epp@queensu.ca"]
 
 	spec.summary       = "My personal site"
-	spec.homepage      = "https://github.com/AdamEpp/"
+	spec.homepage      = "https://github.com/AdamEpp"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"
